@@ -10,7 +10,7 @@ function isPalindrome(word) {
 }
 
 /* 
-  // Pseudocode
+  // Pseudocode.
   // split word into array
   // reverse array
   // join array into string
